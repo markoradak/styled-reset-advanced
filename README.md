@@ -9,8 +9,6 @@ from [Zac Anger](https://github.com/zacagner) and
 [styled-normalize](https://www.npmjs.com/package/styled-normalize)
 from [Sergey Sova](https://github.com/sergeysova).
 
---------
-
 ## Installation
 
 With NPM: `npm i styled-reset-advanced` (use the `-S` flag if you're on npm 4 or earlier).  
