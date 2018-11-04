@@ -1,10 +1,10 @@
-# styled-reset-advanced
+# 💅 styled-reset-advanced
 
-Extended version of [reset.css](https://meyerweb.com/eric/tools/css/reset/) for
-[styled-components](https://github.com/styled-components/styled-components) adding `border-box` reset, 
+> Extended version of [reset.css](https://meyerweb.com/eric/tools/css/reset/) for
+[styled-components](https://github.com/styled-components/styled-components) adding `border-box` reset,  
 as well as additional link/button resets, font antialiasing, focused user-select, etc.
 
-Also see [styled-reset](https://github.com/zacanger/styled-reset)
+> Also see [styled-reset](https://github.com/zacanger/styled-reset)
 from [Zac Anger](https://github.com/zacagner) and
 [styled-normalize](https://www.npmjs.com/package/styled-normalize)
 from [Sergey Sova](https://github.com/sergeysova).
@@ -13,7 +13,7 @@ from [Sergey Sova](https://github.com/sergeysova).
 
 ## Installation
 
-With NPM: `npm i styled-reset-advanced` (use the `-S` flag if you're on npm 4 or earlier).
+With NPM: `npm i styled-reset-advanced` (use the `-S` flag if you're on npm 4 or earlier).  
 With Yarn: `yarn add styled-reset-advanced`.
 
 ## Usage
@@ -57,9 +57,9 @@ import { reset } from 'styled-reset-advanced';
 
 ## Credits
 
-- All credit goes to Eric Meyer for reset.css.
-- reset.css is public domain (unlicensed).
+Credit goes to Eric Meyer for coming up with reset.css and Paul Irish for box model reset.  
+Reset.css is public domain (unlicensed).
 
 ## License
 
-[MIT](./LICENSE.md)
+Licensed under [MIT](./LICENSE.md) license.
