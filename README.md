@@ -55,7 +55,7 @@ import { reset } from 'styled-reset-advanced';
 
 ## Credits
 
-Credit goes to Eric Meyer for coming up with reset.css and Paul Irish for box model reset.  
+Credit goes to Eric Meyer for coming up with reset.css, Paul Irish for box model reset and Zac Anger for coming up with initial version of Styled Reset.  
 Reset.css is public domain (unlicensed).
 
 ## License
