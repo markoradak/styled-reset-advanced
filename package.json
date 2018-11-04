@@ -1,0 +1,30 @@
+{
+  "name": "styled-reset-advanced",
+  "description": "Advanced Reset CSS for Styled Components",
+  "version": "1.0.0",
+  "author": {
+    "name": "Marko Radak",
+    "email": "mail@markoradak.com",
+    "url": "http://markoradak.com"
+  },
+  "license": "MIT",
+  "main": "src/index.js",
+  "scripts": {},
+  "homepage": "https://github.com/markoradak/styled-reset-advanced#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/markoradak/styled-reset-advanced.git"
+  },
+  "bugs": "https://github.com/markoradak/styled-reset-advanced/issues",
+  "keywords": [
+    "css",
+    "reset",
+    "reset.css",
+    "styled-components"
+  ],
+  "dependencies": {},
+  "devDependencies": {},
+  "peerDependencies": {
+    "styled-components": ">=3.0.0 || >=4.0.0"
+  }
+}
