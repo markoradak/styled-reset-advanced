@@ -88,7 +88,7 @@ export const reset = css`
     user-select: none;
   }
   p, h1, h2, h3, h4, h5, h6, blockquote, pre, ul, ol, li, table, tr, th, td {
-    user-select: initial;
+    user-select: all;
   }
 `;
 
