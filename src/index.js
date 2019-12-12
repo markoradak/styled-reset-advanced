@@ -87,7 +87,7 @@ export const reset = css`
   *, *:before, *:after {
     user-select: none;
   }
-  p, h1, h2, h3, h4, h5, h6, blockquote, pre, ul, ol, li, table, tr, th, td {
+  p, h1, h2, h3, h4, h5, h6, blockquote, pre, ul, ol, li, table, tr, th, td, input, textarea {
     user-select: text;
   }
 `;
